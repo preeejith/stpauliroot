@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202628409953",
+    "project_id": "nirmala-1511a",
+    "storage_bucket": "nirmala-1511a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202628409953:android:b0ed301eae1c53c3b11820",
+        "android_client_info": {
+          "package_name": "com.iroots.iroots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeXGisvh_FhGvh3rWulLQlO7BdhYDPEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496177839940",
+    "project_id": "stpaul-9336d",
+    "storage_bucket": "stpaul-9336d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496177839940:android:51c3ef7e2e12b090b3a111",
+        "android_client_info": {
+          "package_name": "com.irootsp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bSBbbHOf8qIFFJAjPALUW79PYM30CV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

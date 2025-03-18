@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487924006736",
+    "project_id": "stmarys-df49c",
+    "storage_bucket": "stmarys-df49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487924006736:android:109a7a70f7808f7670f655",
+        "android_client_info": {
+          "package_name": "com.irootsp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvBYom8Fzcgpfq4L37FWS-Ef3_hhrDDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953195514254",
+    "project_id": "st-mary-sec",
+    "storage_bucket": "st-mary-sec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953195514254:android:6a8ef54f6893d3d1e9bcdf",
+        "android_client_info": {
+          "package_name": "com.irootsp.st_mary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDgtVI8WqdB5N3MzRRgmsCIPASggU9dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
